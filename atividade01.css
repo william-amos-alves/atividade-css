@@ -1,0 +1,35 @@
+
+
+body{
+   background-color: rgb(248, 215, 215);
+}
+
+.caixa{
+    width: 400px;
+    margin: 20px auto;
+    font-style: oblique;
+    background-color: rgb(251, 111, 111);
+    border-width: 20px solide black
+}
+
+h1{
+    width: 400px;
+    margin: 20px auto;
+  font-style: initial;
+  background-color:bisque;
+ ;
+}
+
+.texto-introducao{
+    width: 400px;
+    margin: 20px auto;
+   background-color:chartreuse
+}
+
+.figura{
+    width: 400px;
+    margin: 16px auto;
+    font-family: center;
+    box-shadow:4px 7px 5px gray;
+    
+}
